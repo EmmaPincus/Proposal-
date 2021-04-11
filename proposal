@@ -1,2 +1,3 @@
-The title of my project will probably be called Turtle Battleship
-My project is is a game where the user can play a version of Battleship
+The title of my project will probably be called Turtle Battleship.
+My project is is a game where the user can play a version of Battleship.
+I will be using Idle and turtles. I have the computer generate random numbers and then have turtles go to that position. I'm figuring out how to mark the where the turtles are so if the user guesses the correct location another turtle will stamp the position and the computer will print "Hit" or something like that.  
