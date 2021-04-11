@@ -2,3 +2,8 @@ The title of my project will probably be called Turtle Battleship.
 My project is is a game where the user can play a version of Battleship.
 I will be using Idle and turtles. I have the computer generate random numbers and then have turtles go to that position. 
 I'm figuring out how to mark the where the turtles are so if the user guesses the correct location another turtle will stamp the position and the computer will print "Hit" or something like that.  
+I am not working with anyone or combining this final project with another course's final project.
+A good outcome will be that the computer imports turtles and stamps the positions.
+The user will guess coordinates and if they get them right another turtle will change colors and stamp the position. They will try to get everypostion in a certain amount of turns.
+A better outcome would be if the user could guess the positions 
+The best ouctome would be if the user could play against the computer.
